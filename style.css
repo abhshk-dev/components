@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    background-color: #223;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    background: rgba(221, 207, 221, 0.87);
+    border: 2px solid #ffe;
+    border-radius: 4px;
+    position: fixed;
+    cursor: pointer;
+}
