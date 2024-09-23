@@ -1,4 +1,4 @@
-# Creating Drag and Drop funcitonality.
+# Creating Drag and Drop functionality.
 
 1st Iteration
 ⭐ used mousedown event to capture the position of the mouse on click on the element.
