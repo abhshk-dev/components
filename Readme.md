@@ -1,5 +1,6 @@
 # Creating Drag and Drop funcitonality.
 
+1st Iteration
 ⭐ used mousedown event to capture the position of the mouse on click on the element.
 ⭐ updated the elements position with the current cursor position on screen, using mousemove event.
 ⭐ mouseup used to remove the listener, and drop the element in its place.
@@ -41,5 +42,6 @@ const mouseUp=(e)=>{
 }
 box.addEventListener('mousedown',mouseDown);
  -->
+
 
 
